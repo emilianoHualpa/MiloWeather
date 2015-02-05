@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiloWeather</string>
+    <string name="city">Escriba el nombre de la ciudad</string>
+    <string name="botonto">Ver clima en modo xml feo</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
